@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.venv/
+
+# Local database (created automatically on first run)
+instance/
+*.sqlite3
+db_directory/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
