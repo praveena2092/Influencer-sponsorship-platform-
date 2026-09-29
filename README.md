@@ -80,7 +80,7 @@ This is a course project and not production-ready:
 
 ## Author
 
-Praveena N (22f3001454) – IIT Madras BS Degree
+Praveena N 
 
 ## License
 
